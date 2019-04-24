@@ -1,0 +1,16 @@
+
+.item{
+  color: greenyellow;
+}
+.active{
+  color: goldenrod;
+}
+
+.item img{
+  height: 90px;
+  width: 90px;
+  border-radius: 50%;
+}
+.item span{
+  cursor: pointer;
+}
